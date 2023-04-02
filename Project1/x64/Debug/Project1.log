@@ -1,0 +1,5 @@
+﻿  equipe.cpp
+  main.cpp
+C:\Users\HP\Desktop\Project1\Project1\main.cpp(354,50): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+  Génération de code en cours...
+  Project1.vcxproj -> C:\Users\HP\Desktop\Project1\x64\Debug\Project1.exe
